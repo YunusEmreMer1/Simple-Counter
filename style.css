@@ -1,0 +1,45 @@
+body {
+    
+    background-color: #361836;
+    color:aqua;
+}
+
+.title {
+
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+.counter {
+
+    font-size: 10rem;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: rgb(225, 209, 209);
+    margin: 100px;
+}
+
+.controls {
+    
+    align-items: center;
+        display: flex;
+        justify-content: center;
+        margin: 50px;
+        text-align: center;
+}
+.controls button {
+
+    display: flex;
+    font-size: 3rem;
+   padding: 40px 40px;
+   height: 40px;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   border-color: transparent;
+   margin-right: 2rem;
+    border-radius: 0.5rem;
+}
